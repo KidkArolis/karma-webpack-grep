@@ -1,6 +1,6 @@
 {
   "name": "karma-webpack-grep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "karma start --grep some/pattern",
   "main": "index.js",
   "scripts": {},
