@@ -1,0 +1,9 @@
+{
+  "name": "karma-webpack-grep",
+  "version": "1.0.0",
+  "description": "karma start --grep some/pattern",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Karolis Narkevicius",
+  "license": "ISC"
+}
