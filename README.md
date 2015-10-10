@@ -27,3 +27,7 @@ module.exports = function (config) {
   )
 }
 ```
+
+## Docs
+
+Read a more in depth explanation of this approach at https://medium.com/@kidkarolis/karma-webpack-grep-super-fast-tests-in-dev-b11130e2c2c6.
